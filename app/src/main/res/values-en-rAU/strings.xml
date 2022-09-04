@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Core1</string>
+    <string name="score_button">SCORE M8</string>
+    <string name="steal_button">STEAL M8</string>
+    <string name="reset_button">RESET M8</string>
+</resources>
